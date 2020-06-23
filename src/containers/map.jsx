@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 
 class Map extends Component {
-
   render() {
     const style = {
       height: "100vh"
@@ -9,7 +8,7 @@ class Map extends Component {
 
     return (
       <div className="col-sm-5" style={style}>
-      Todo
+        Todo
       </div>
     );
   }
