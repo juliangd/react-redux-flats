@@ -6,3 +6,4 @@ export function setFlats() {
     type: 'SET_FLATS',
     payload: flats
   }
+}
